@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title:  GhostVPN
+#profile-title:  Бесплатные ключи Happ
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
 #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
