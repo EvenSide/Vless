@@ -1,3 +1,8 @@
+#profile-update-interval: 1
+#profile-title: рџ‘» GhostVPN
+#support-url: https://t.me/GhostVpn_Support_Bot
+#profile-web-page-url: https://t.me/GhostVpn_net
+#announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 vless://fea2cc2b-c387-4827-95eb-285dfc444fa2@84.201.140.155:443?security=reality&encryption=none&pbk=a3j3TH-VYPCGR_ecpyzkojGcszOGWdu0R9w0b1GAFU4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
 vless://fea2cc2b-c387-4827-95eb-285dfc444fa2@84.201.179.244:443?security=reality&encryption=none&pbk=h5up2hQN1GxpVWLubguVu8UrlheyWUMReYj_l4MhGjY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.151:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
