@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: Ключи TEST
+#profile-title: Ключи TEST 08/01
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
 #announce: https://t.me/vsem_po_vpn
@@ -295,4 +295,5 @@ vless://e329843c-02c3-4401-8289-cf196d5a6921@95.163.249.95:443?security=reality&
 vless://c3ef0f28-7123-4dd5-aa69-6a99b13fa65f@178.250.243.182:443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=da5f84e85736f625#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B*CIDR%5D
 vless://8fbee9ac-818d-42e7-a31e-0632c76d75ef@151.236.93.44:4445?mode=auto&path=%2F&security=reality&encryption=none&pbk=YcqQL3sVff5Sm1HUunYN3B7p5-iibbtyRLSsnDxTHBM&host=max.ru&fp=chrome&type=xhttp&sni=max.ru&sid=5e48ba024322cee0#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23222
 vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B*CIDR%5D
+
 
