@@ -1,8 +1,8 @@
 #profile-update-interval: 3
 #profile-title: Test2
-#support-url: https://t.me/vsem_po_vpn
-#profile-web-page-url: https://t.me/vsem_po_vpn
-#announce: https://t.me/vsem_po_vpn
+#support-url: Test
+#profile-web-page-url: Test
+#announce: Test
 vless://62770d79-dc4d-07d0-b01c-ea30399725aa@95.163.250.213:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D
 vless://16bbdaa1-7145-4e5d-9c49-d2059d76432d@95.163.249.239:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=87cc0414902bee2d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D
 vless://34ef4875-477f-4b8d-8e60-e230379f21ef@89.208.230.48:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=87cc0414902bee2d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D
@@ -367,6 +367,7 @@ vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.23.141:1488?security=reality
 vless://b40f1f10-3450-43b1-b14e-1e699acbed58@51.250.23.141:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23452
 vless://65c4cd17-f05e-4759-bac2-8a447282a584@51-ge.ya-og.com:443?mode=stream-up&path=%2Fxhttp&security=reality&encryption=none&extra=%7B%22enabled%22%3Atrue%2C%22concurrency%22%3A-1%2C%22xudpConcurrency%22%3A16%2C%22xudpProxyUDP443%22%3A%22reject%22%7D&pbk=ntl-B6DVFe9ezroTPPzzWDgjw-toGDqiAS4do2oiNg4&fp=qq&spx=%2F&type=xhttp&sni=api-maps.yandex.ru&sid=7a72a20b90679b00#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
 vless://65c4cd17-f05e-4759-bac2-8a447282a584@51.250.80.168:443?mode=stream-up&path=%2Fxhttp&security=reality&encryption=none&extra=%7B%22enabled%22%3Atrue%2C%22concurrency%22%3A-1%2C%22xudpConcurrency%22%3A16%2C%22xudpProxyUDP443%22%3A%22reject%22%7D&pbk=ntl-B6DVFe9ezroTPPzzWDgjw-toGDqiAS4do2oiNg4&fp=chrome&type=xhttp&sni=api-maps.yandex.ru&sid=7a72a20b90679b00#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
+
 
 
 
