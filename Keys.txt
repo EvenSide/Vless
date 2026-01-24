@@ -1,4 +1,4 @@
-#profile-update-interval: 3
+#profile-update-interval: 1
 #profile-title: Ключи Happ
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
