@@ -2,7 +2,7 @@
 #profile-title: Ключи Happ
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
-#announce: https://t.me/vsem_po_vpn
+#announce: https://t.me/vsem_po_vpn от 31.01
 
 vless://1daf1a3a-8087-4e44-bde2-d374d0cf69e4@46.243.232.142:443?security=reality&encryption=none&pbk=Z6d_bbLY2IarsuQ5BDmRSleuL0uLDApRHjXaJkR2LkU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=278efd4cc196c984#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20CDN
 vless://0d6974c7-d686-44ee-931e-a02de6879835@46.243.233.12:443?security=reality&encryption=none&pbk=mLZSvX6YgJbe-DIxWJ_7opUv3IadEXz3Gj-yJQFxd1w&headerType=&fp=chrome&type=tcp&sni=web.max.ru&sid=357d2ffdb2#%F0%9F%87%B7%F0%9F%87%BA0095%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20Russia%20%7C%20%40shadowvpn_net
