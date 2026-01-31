@@ -3,7 +3,6 @@
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
 #announce: тест 31.01
-
 vless://1daf1a3a-8087-4e44-bde2-d374d0cf69e4@46.243.232.142:443?security=reality&encryption=none&pbk=Z6d_bbLY2IarsuQ5BDmRSleuL0uLDApRHjXaJkR2LkU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=278efd4cc196c984#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20CDN
 vless://0d6974c7-d686-44ee-931e-a02de6879835@46.243.233.12:443?security=reality&encryption=none&pbk=mLZSvX6YgJbe-DIxWJ_7opUv3IadEXz3Gj-yJQFxd1w&headerType=&fp=chrome&type=tcp&sni=web.max.ru&sid=357d2ffdb2#%F0%9F%87%B7%F0%9F%87%BA0095%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20Russia%20%7C%20%40shadowvpn_net
 vless://e2efcdb7-7d9b-4b29-8a0e-e6b1b6e10037@5.188.35.49:50652?security=reality&encryption=none&pbk=NXo5uRsVEmNtYWahGbEjr-y2IloJTgBc3WQmq60F2T8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=78781cd4b7f0#SERVER%20171
@@ -138,6 +137,3 @@ vless://557a0638-0981-4176-a8bc-13dbf588291d@84.252.130.60:443?security=reality&
 vless://215bce5b-14ae-4d3b-8ab2-bd3c1a3829a6@84.252.143.25:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=28047c78b3f5ee2c#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B*CIDR%5D%20YA
 =none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=43df3983229a1c73#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20YA
 type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a76ea384b29a4f79#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20YA
-vless://215bce5b-14ae-4d3b-8ab2-bd3c1a3829a6@84.252.143.25:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B*CIDR%5D%20YA
--21.userapi.com&sid=4b523a98e1bbd15b#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20YA
-:443?security=reality&sni=max.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20[*CIDR]%20VK
