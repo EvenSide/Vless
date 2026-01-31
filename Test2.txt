@@ -1,4 +1,4 @@
-#profile-update-interval: 12
+#profile-update-interval: 1
 #profile-title: Test2 21.01
 #support-url: TEST 21.01
 #profile-web-page-url: Test21. 01
