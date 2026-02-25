@@ -6,7 +6,6 @@
 
 
 vless://d4d987db-ed6c-4e49-be3b-e84bbd3d0112@89.208.221.7:8443?security=reality&sni=max.ru&fp=chrome&pbk=28Q4Bqx4332xw-HKOZ6ogd-2G6ijTvXbDIzilr3dXyk&sid=2733a7c750&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20[*CIDR]%20VK
-vless://128c47c6-c7f1-4c4e-b8e3-15364ebb6f69@89.208.221.7:4443?security=reality&sni=ads.x5.ru&fp=chrome&pbk=p01sVLQ0fVPdc6Y10UX30kTuQqjsI9LlX7-EFHd0AzY&sid=31&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71::%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@95.163.211.13:443?security=reality&sni=max.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20[*CIDR]%20VK
 vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@5.188.115.178:443?security=reality&sni=rutube.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20[*CIDR]
 vless://e72b7b21-22ac-48cd-a42d-1ab653822d84@95.163.208.217:443?security=reality&sni=api-maps.yandex.ru&pbk=YV4yX4W88EtqvXvqoVuQbURoJ8LqHyaQehrZtcSECCM&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20[IPv6]%20[*CIDR]%20VK
