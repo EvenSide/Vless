@@ -2,7 +2,7 @@
 #profile-title: Ключи Happ
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
-#announce: https://t.me/vsem_po_vpn от 31.03
+#announce: https://t.me/vsem_po_vpn от 01.04
 
 
 vless://5d1cb1a0-97a9-48ec-8019-7cfd980a4ff3@176.108.242.42:443?security=reality&encryption=none&pbk=LW4kZEMbix1PIESoiJUi8pSl-uIaupCXn9LHq9znVDQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
