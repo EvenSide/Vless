@@ -2,7 +2,7 @@
 #profile-title: Ключи Happ
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
-#announce: https://t.me/vsem_po_vpn от 27.04
+#announce: https://t.me/vsem_po_vpn от 28. 04
 
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.230.199:8443?security=reality&encryption=№&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#TCP%2C%20Max%20%5B%23%D0%A0%D0%9A%D0%9F%5D
