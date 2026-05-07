@@ -1,5 +1,12 @@
 #profile-update-interval: 12
-#profile-title: Happ Blacklist
+#profile-title: Happ Blacklist <a href="https://www.emojis.com/emoji/emoji-NLEW1SJQxtM" target="_blank">
+  <img 
+    src="https://imgproxy.attic.sh/insecure/f:png/h:512/w:512/plain/https://attic.sh/jk7b3fl3q2s4g610h1uubusbahvq" 
+    alt=" emoji" 
+    width="128" 
+    height="128"
+  />
+</a>
 #support-url: https://t.me/vsem_po_vpn
 #profile-web-page-url: https://t.me/vsem_po_vpn
 #announce: https://t.me/vsem_po_vpn
